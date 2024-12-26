@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Times New Roman';
+    font-size: 32px;
+    font-weight: bold;
+    background-color: grey;
+    text-align: center;
+}
+.recipes{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#biryani{
+    text-align: start;
+    background-color: red;
+}
+#baklava{
+    text-align: end;
+    background: lightblue;
+}
+#custard{
+    text-align: center;
+    background-color: bisque;
+}
